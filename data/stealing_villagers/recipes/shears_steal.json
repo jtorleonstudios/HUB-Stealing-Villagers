@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "O  ",
+    " # ",
+    "  O"
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:gold_ingot"
+    },
+    "#": {
+      "item": "minecraft:shears"
+    }
+  },
+  "result": {
+    "item": "stealing_villagers:shears_steal"
+  }
+}
